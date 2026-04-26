@@ -1,40 +1,108 @@
-### Hello there 👋 I'm Ivan Ahumada V.
-> Full stack developer | Passionate about Building Scalable Web Solutions
+# Hi there, I'm Iván Ahumada 👋
 
+> **Fullstack Developer** · Building scalable and maintainable web solutions
 
-<div>
- <p>
-Fullstack developer with over 2 years of experience in web project development for various types of clients and institutions, developing the backend of fully manageable websites using technologies like WordPress with PHP.
-I also have knowledge in managing control panels such as cPanel.
-I am passionate about frontend development, constantly learning more about technologies to keep improving.
-Lastly, I have experience working with agile methodologies (Scrum).
-</p>
-<br>
- <p> 
-  Portfolio: https://kodzuloki.github.io/
- </p>
-</div>
-Tech Stack 🔥
-### Languages & Frameworks 🌐
+---
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" width="24">](https://es.react.dev/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="24">](https://www.javascript.com) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby" width="24">](https://www.ruby-lang.org/es/)
-| [<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python" width="24">](https://www.python.org/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="Java" width="24">](https://www.java.com/es/)  [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png" alt="PHP" width="24">](https://www.php.net/) | [<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="Django" width="24">](https://www.djangoproject.com/) | [<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="Angular" width="24">](https://angular.dev/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ionic_original_wordmark_logo_icon_146463.png" alt="Ionic" width="24">](https://ionicframework.com/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sass_original_logo_icon_146350.png" alt="Sass" width="24">](https://sass-lang.com/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_logo_icon_146391.png" alt="Postgresql" width="24">](https://www.postgresql.org/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/wordpress_original_logo_icon_146291.png" alt="wordpress" width="24">](https://wordpress.com/es/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_plain_logo_icon_146554.png" alt="Docker" width="24">](https://www.docker.com/) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="Mysql" width="24">](https://www.mysql.com/) |
- 
-### Tools 🛠️
+## 🙋‍♂️ About Me
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |  [<img src="https://logonoid.com/images/phpstorm-logo.png" alt="Phpstorm" width="24">](https://www.jetbrains.com/phpstorm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
-| [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/slack_original_wordmark_logo_icon_146341.png" alt="Slack" width="24">](https://slack.com/intl/es-cl) | [<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/trello_plain_wordmark_logo_icon_146320.png" alt="Trello" width="24">](https://trello.com/es) | [<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png" alt="Notion" width="24">](https://www.notion.so/es) | [<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Postman" width="24">](https://www.postman.com/) |---|---|---|---|---|
+Fullstack developer with over **3 years of experience** designing and developing web applications for diverse clients and institutions. I work comfortably across the entire stack — from architecting backend APIs to crafting clean, responsive frontends.
 
-### Github Repos 🌐
+- 🌐 **Portfolio:** [IvanAhumadaLoki.github.io](https://IvanAhumadaLoki.github.io/)
+- 💼 Open to **full-time roles** and **freelance projects**
+- 🤝 Experience working with **Scrum / Agile** methodologies
+- 📫 Reach me at: **ivan.a.ahumada.v95@gmail.com**
 
-🚧 Under construction 🚧
+---
 
-<h3> 🤝🏻 Connect with Me </h3>
+## 🧰 Tech Stack
+
+### 🖥️ Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+### 🛠️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/iván-alejandro-ahumada-valdés-b64a1b17a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Kodzuloki-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:ivan.a.ahumada.v95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.a.ahumada.v95@gmail.com-blue?style=flat&logo=gmail"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanAhumadaLoki&show_icons=true&theme=tokyonight&hide_border=true" alt="Ivan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanAhumadaLoki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanAhumadaLoki&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
 
-⭐️ From [@KodzuLoki](https://github.com/KodzuLoki)
+---
+
+## 🚀 Featured Projects
+
+> 🚧 Updating project showcase — check back soon or visit my [portfolio](https://IvanAhumadaLoki.github.io/) for live examples.
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iván-alejandro-ahumada-valdés-b64a1b17a/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Iván_Ahumada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ivan.a.ahumada.v95@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ivan.a.ahumada.v95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://IvanAhumadaLoki.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-IvanAhumadaLoki.github.io-1DA462?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/IvanAhumadaLoki">@IvanAhumadaLoki</a></p>
