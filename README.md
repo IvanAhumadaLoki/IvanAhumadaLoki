@@ -8,7 +8,7 @@
 
 Fullstack developer with over **3 years of experience** designing and developing web applications for diverse clients and institutions. I work comfortably across the entire stack — from architecting backend APIs to crafting clean, responsive frontends.
 
-- 🌐 **Portfolio:** [IvanAhumadaLoki.github.io](https://IvanAhumadaLoki.github.io/)
+- 🌐 **Portfolio:** [IvanAhumada](https://portafolio-ivan-ahumada.vercel.app/)
 - 💼 Open to **full-time roles** and **freelance projects**
 - 🤝 Experience working with **Scrum / Agile** methodologies
 - 📫 Reach me at: **ivan.a.ahumada.v95@gmail.com**
@@ -83,7 +83,7 @@ Fullstack developer with over **3 years of experience** designing and developing
 
 ## 🚀 Featured Projects
 
-> 🚧 Updating project showcase — check back soon or visit my [portfolio](https://IvanAhumadaLoki.github.io/) for live examples.
+> 🚧 Updating project showcase — check back soon or visit my [portfolio](https://portafolio-ivan-ahumada.vercel.app/) for live examples.
 
 ---
 
@@ -98,7 +98,7 @@ Fullstack developer with over **3 years of experience** designing and developing
     <img alt="Email" src="https://img.shields.io/badge/Email-ivan.a.ahumada.v95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://IvanAhumadaLoki.github.io/" target="_blank">
+  <a href="https://portafolio-ivan-ahumada.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-IvanAhumadaLoki.github.io-1DA462?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
